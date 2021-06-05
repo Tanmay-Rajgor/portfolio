@@ -7,7 +7,7 @@
 # [Project 1: Smart Door Unlock System]
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
-Photo by >a href="https://unsplash.com/@jakeculp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jacob Culp</a> on <a
+Photo by <a href="https://unsplash.com/@jakeculp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jacob Culp</a> on <a
  href="https://unsplash.com/s/photos/doors?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 This project integrates various images for performing accurate face recognition system.
 * **Python libraries used:** Opencv, smtp.
